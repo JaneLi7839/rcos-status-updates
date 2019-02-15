@@ -15,4 +15,5 @@ it but I've never used psycopg before so I need to read up on it's
 documentation.
 
 ## Notes
-
+I also had 3 tests and job things (more interviews) to do this week so I 
+didn't have a lot of time to work on the project.
