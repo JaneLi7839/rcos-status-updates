@@ -1,6 +1,7 @@
 ## Last Week's Accomplishments
 
-I added documentation for updatePostgres.py and testupdatePostgres.py.
+I added documentation for updatePostgres.py and testupdatePostgres.py and made a pull request
+to add my changes. I am also volunteering to help out with Hack RPI.
 
 ## This Week's Plan
 
